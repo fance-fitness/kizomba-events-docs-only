@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1572043661150,
+  "timestamp": 1572454076209,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,7 +10,7 @@
       "urls": [
         "/es2015-polyfills.bda95d5896422d031328.js",
         "/index.html",
-        "/main.7075c40c48d128dbb44f.js",
+        "/main.255e45ccd8a527385874.js",
         "/polyfills.8bbb231b43165d65d357.js",
         "/runtime.26209474bfa8dc87a77c.js",
         "/styles.7caa6ef4e669ae29a193.css"
@@ -98,6 +98,7 @@
         "/assets/icons/old/icon-512x512.png",
         "/assets/icons/old/icon-72x72.png",
         "/assets/icons/old/icon-96x96.png",
+        "/assets/logo.png",
         "/assets/win8-tile-144x144.png",
         "/assets/win8-tile-150x150.png",
         "/assets/win8-tile-310x150.png",
@@ -116,7 +117,7 @@
       "strategy": "freshness",
       "maxSize": 200000,
       "maxAge": 60000,
-      "timeoutMs": 3000,
+      "timeoutMs": 7000,
       "version": 1
     },
     {
@@ -127,7 +128,7 @@
       "strategy": "freshness",
       "maxSize": 20,
       "maxAge": 30000,
-      "timeoutMs": 3000,
+      "timeoutMs": 7000,
       "version": 1
     },
     {
@@ -138,7 +139,7 @@
       "strategy": "freshness",
       "maxSize": 20,
       "maxAge": 30000,
-      "timeoutMs": 3000,
+      "timeoutMs": 7000,
       "version": 1
     },
     {
@@ -150,7 +151,7 @@
       "strategy": "freshness",
       "maxSize": 20,
       "maxAge": 30000,
-      "timeoutMs": 3000,
+      "timeoutMs": 7000,
       "version": 1
     },
     {
@@ -161,7 +162,7 @@
       "strategy": "performance",
       "maxSize": 20,
       "maxAge": 86400000,
-      "timeoutMs": 3000,
+      "timeoutMs": 7000,
       "version": 1
     },
     {
@@ -172,7 +173,7 @@
       "strategy": "freshness",
       "maxSize": 20,
       "maxAge": 30000,
-      "timeoutMs": 3000,
+      "timeoutMs": 7000,
       "version": 1
     },
     {
@@ -188,7 +189,7 @@
       "strategy": "freshness",
       "maxSize": 1000,
       "maxAge": 30000,
-      "timeoutMs": 3000,
+      "timeoutMs": 7000,
       "version": 1
     }
   ],
@@ -269,14 +270,15 @@
     "/assets/icons/old/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "/assets/icons/old/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/assets/icons/old/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/logo.png": "85a8fbafc0fa1b0dbd0110bd3f35f7ab2f37aedb",
     "/assets/win8-tile-144x144.png": "52cd6dc8ff2994ba1159968574db1f8e93470836",
     "/assets/win8-tile-150x150.png": "59a40d1d5636cad79f9fde59a54505d0fa97af63",
     "/assets/win8-tile-310x150.png": "c9b5e4ef3fd0da4e21dae5ae76bdf6a4b5243a8d",
     "/assets/win8-tile-310x310.png": "e24ac0f55a3b3273c1b0fc66e31fb8f26adc6853",
     "/assets/win8-tile-70x70.png": "400083cb7f184cd15397305df58adc5935e17def",
     "/es2015-polyfills.bda95d5896422d031328.js": "1612fe8f7e8e0c856f0885ff179e93363c67834f",
-    "/index.html": "85be92a06c1665e197a89715f3713e7d408c4fb1",
-    "/main.7075c40c48d128dbb44f.js": "99a9e339fa49f391b6a5233b4a6d32a01f6b705a",
+    "/index.html": "c4ca2141be5bc5e8c2e2091906c8a070f50b9613",
+    "/main.255e45ccd8a527385874.js": "8e278ec7dea3c0e4f3d367c50d51c35f06c75428",
     "/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
     "/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "/styles.7caa6ef4e669ae29a193.css": "e6f52b774f6633a5b9ac2b8f64d79fb24220d182"
